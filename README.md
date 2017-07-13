@@ -3,7 +3,7 @@
 Configuration files for using TensorFlow on google's cloud computing platform. Since git is already running, go ahead and clone the gcloud-setup repo.
 
 ```
-sudo apt-get git
+sudo apt-get install git
 git clone https://github.com/kwisatzheadache/gcloud-setup
 cd gcloud-setup
 ```
