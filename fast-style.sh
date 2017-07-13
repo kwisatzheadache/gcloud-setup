@@ -3,11 +3,10 @@ cd fast-style-clone
 mkdir output
 mkdir output/tests
 mkdir output/checkpoint
-apt-get install python-pip python-dev
+apt-get install python-pip python-dev unzip
 pip download tensorflow
 pip install --U -user tensorflow*.whl
 pip install scipy pillow
-
 ./setup.sh
 
 echo 'setup complete'
