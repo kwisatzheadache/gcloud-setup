@@ -9,4 +9,5 @@ pip install --user -U tensorflow*.whl
 pip install scipy pillow
 ./setup.sh
 
+
 echo 'setup complete'
