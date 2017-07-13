@@ -11,7 +11,7 @@ cd gcloud-setup
 With the gcloud-setup repo, you can prepare the instance for any of the machine learning programs. We'll start with (lengstrom's fast-style-transfer)[https://github.com/lengstrom/fast-style-transfer]. 
 
 ```
-bash fast-style.sh
+sudo bash fast-style.sh
 ```
 
 This installs TensorFlow and the necessary dependencies.
