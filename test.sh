@@ -1,4 +1,3 @@
-apt-get install git
 git clone https://github.com/kwisatzheadache/fast-style-clone
 apt-get install python-pip python-dev
 pip download tensorflow
