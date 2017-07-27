@@ -16,4 +16,8 @@ sudo bash fast-style.sh
 
 This installs TensorFlow and the necessary dependencies.
 
+Note****
+Sometimes the permissions on the gcloud are a pain to configure, so you may need to just run the bash commands from fast-style.sh individually with sudo.
+
+
 
